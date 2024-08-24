@@ -1,0 +1,100 @@
+Statement,Category
+"We need someone who can handle pressure, and she's always getting stressed out.",Gender Stereotype
+"He's not a good fit for this team, he's too emotional.",Gender Stereotype
+"She's too young to be in a leadership role, she doesn't have enough experience.",Age Discrimination
+"We need someone who's assertive and aggressive, and she's too nice.",Gender Stereotype
+"He's not a good candidate, he's got a strong accent.",Ethnic/Racial Discrimination
+"We're looking for someone with a strong work ethic, and she's always taking time off.",Gender Stereotype
+"He's not the right fit for this role, he's too soft-spoken.",Gender Stereotype
+"We need someone who can handle a demanding workload, and she's always complaining about being tired.",Gender Stereotype
+"We're looking for someone who's a team player, and he's always trying to do things on his own.",Gender Stereotype
+"She's not a good candidate, she's got a family to take care of.",Gender Discrimination
+"We need someone who can think outside the box, and he's too traditional.",General Stereotype
+"He's not the right fit for this role, he's too old.",Age Discrimination
+"We need someone who's confident and assertive, and she's too shy.",Gender Stereotype
+"He's not a good student, he's always getting into trouble.",General Stereotype
+"She's too quiet in class, she's probably not interested in the material.",General Stereotype
+"Girls are better at English, boys are better at math.",Gender Stereotype
+"He's from a disadvantaged background, he's probably not going to succeed.",Socioeconomic Discrimination
+"She's not going to college, she's just going to get married and have kids.",Gender Stereotype
+"He's a good student, but he's not going to amount to anything.",General Stereotype
+"He's overweight, he must not be eating healthy.",Health Stereotype
+"She's complaining about pain, she's probably exaggerating.",Gender Stereotype
+"He's from a different culture, he'll probably want a different treatment.",Ethnic/Racial Stereotype
+"She's pregnant, she must be feeling hormonal.",Gender Stereotype
+He's too young to have such serious health problems.,Age Discrimination
+"She's too old for this procedure, it's too risky.",Age Discrimination
+"He's from a poor neighborhood, he probably doesn't have good hygiene.",Socioeconomic Discrimination
+"She's mentally ill, she's probably dangerous.",Mental Health Stereotype
+"He's got a criminal record, he's not worth treating.",Criminal History Discrimination
+"They're all the same, they just want to take our jobs.",Ethnic/Racial Stereotype
+"This movie is too violent, it's going to make people think it's okay to be violent.",Media Stereotype
+"That TV show is just trash, it's all about sex and violence.",Media Stereotype
+"Those people are always complaining, they just want special treatment.",General Prejudice
+"He's a terrorist, he's going to blow us all up.",Ethnic/Racial Stereotype
+"She's a gold digger, she's only with him for his money.",Gender Stereotype
+"He's from a bad neighborhood, he must be guilty.",Socioeconomic Discrimination
+"She's a woman, she must be lying about the assault.",Gender Stereotype
+"He's got a criminal record, he'll probably do it again.",Criminal History Stereotype
+"She's mentally ill, she's not responsible for her actions.",Mental Health Stereotype
+"He's a minority, he must have gotten special treatment.",Ethnic/Racial Stereotype
+"You're acting like a typical woman, you're so emotional.",Gender Stereotype
+You're too young to understand.,Age Discrimination
+You're too old to be doing that.,Age Discrimination
+"You're too different, you don't belong here.",General Prejudice
+"You're too loud, you need to be more respectful.",General Prejudice
+"You're too quiet, you should speak up more.",General Prejudice
+"You're too skinny, you need to eat more.",Body Shaming
+"You're too fat, you need to lose weight.",Body Shaming
+"This product is for women, it's made to be pink and delicate.",Gender-based Marketing
+"This product is for men, it's powerful and rugged.",Gender-based Marketing
+"This product is perfect for seniors, it's easy to use.",Ageist Marketing
+"This product is for people who are struggling financially, it's affordable.",Classist Marketing
+"This product is for people who are environmentally conscious, it's made with recycled materials.",Value-based Marketing
+Women are bad drivers.,Gender Stereotype
+All immigrants are criminals.,Ethnic/Racial Stereotype
+Black people are lazy.,Ethnic/Racial Stereotype
+Gay people are all promiscuous.,Sexual Orientation Stereotype
+"We only hire people with experience in this field, and she's too young.",Age Discrimination
+"He's not the right fit for this role, he's too aggressive.",Gender Stereotype
+I'm not comfortable working with someone who's not from this country.,Ethnic/Racial Discrimination
+"We need someone with a strong work ethic, and she's always taking time off.",Gender Stereotype
+"We're looking for a candidate with a strong leadership presence, and he doesn't seem assertive enough.",Gender Stereotype
+"We're looking for a candidate who's a team player, and he's always trying to do things on his own.",Gender Stereotype
+"I'm not sure if she's the right fit for this position, she's too emotional.",Gender Stereotype
+"We need someone who's aggressive and driven, and he seems too laid-back.",Gender Stereotype
+"He's not a good student, he's always getting into trouble.",General Stereotype
+"She's too quiet in class, she's probably not interested in the material.",General Stereotype
+"Girls are better at English, boys are better at math.",Gender Stereotype
+"He's overweight, he must not be eating healthy.",Health Stereotype
+"She's complaining about pain, she's probably exaggerating.",Gender Stereotype
+"He's from a different culture, he'll probably want a different treatment.",Ethnic/Racial Stereotype
+"They're all the same, they just want to take our jobs.",Ethnic/Racial Stereotype
+Facial recognition software is biased against people of color.,Algorithmic Bias
+"Voice assistants are trained on data that is primarily from white, male speakers, resulting in difficulty understanding other accents or genders.",Algorithmic Bias
+Automated hiring systems can perpetuate existing biases by favoring candidates with certain backgrounds or characteristics.,Algorithmic Bias
+He's a real tough guy.,Gender Stereotype
+She's so emotional.,Gender Stereotype
+He's a natural leader.,Gender Stereotype
+She's a good girl.,Gender Stereotype
+He's acting like a little girl.,Gender Stereotype
+She's a strong woman.,Gender Stereotype
+"I love wearing Native American headdresses, they're so cool.",Cultural Appropriation
+I'm going to dress up as a geisha for Halloween.,Cultural Appropriation
+"I'm going to use this traditional Chinese symbol for my tattoo, it looks so pretty.",Cultural Appropriation
+"You're so beautiful, you're like a Barbie doll.",Body Shaming
+"He's so handsome, he must be a great guy.",General Stereotype
+"You're too skinny, you need to eat more.",Body Shaming
+"You're too fat, you need to lose weight.",Body Shaming
+You should be more confident in your skin.,Body Shaming
+"He's poor, he must be lazy.",Socioeconomic Discrimination
+"She's rich, she must be spoiled.",Socioeconomic Discrimination
+"He's from a wealthy family, he's got it easy.",Socioeconomic Discrimination
+"She's working class, she's probably not very intelligent.",Socioeconomic Discrimination
+They're just trying to get a handout.,Socioeconomic Discrimination
+"He's in a wheelchair, he can't do anything.",Disability Stereotype
+"She's blind, she must be helpless.",Disability Stereotype
+"They should just stay home, they're not going to be able to do anything.",Disability Stereotype
+All politicians are corrupt.,General Stereotype
+"Men are from Mars, women are from Venus.",Gender Stereotype
+They're all the same.,General Stereotype
